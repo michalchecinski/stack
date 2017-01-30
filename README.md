@@ -1,0 +1,2 @@
+**Stack implementation in C**
+I wrote this stack while I was learning for the exam at my university. I wrote stack to learn more about linked lists in C, and to do something that is implemented in higher level languages "out of the box".
